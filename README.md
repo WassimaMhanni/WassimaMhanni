@@ -2,12 +2,10 @@
 Hello! I'm **Wassima Mhanni**  
 ============================  
 
-**Junior Data Scientist | AI, LLMs, NLP, Finance & Business Analytics Enthusiast**  
+**A second-year student in digital engineering at ENSIAS.**  
 ======================================================  
 
-👋 Hi there! I'm a dedicated **Data Science and Digital Finance Engineering** student, passionate about leveraging **Artificial Intelligence**, **data analytics**, and **machine learning** to solve business and financial problem. I'm particularly interested in exploring **Generative AI** and **Large Language Models (LLMs)** to create cutting-edge solutions that optimize financial strategies and streamline decision-making. 🚀📊
-
-🎓 **Currently studying at the National School of Computer Science and Systems Analysis**, I have a strong foundation in **AI**, **Data Science**, **Finance**, and **Business Analytics**. I aim to blend these fields to provide data-driven insights and innovative financial solutions. 
+🎓 **Currently studying at the National School of Computer Science and Systems Analysis**, I have a strong foundation in **AI**, **Data Science**, and **Business Analytics**. I aim to blend these fields to provide data-driven insights and innovative financial solutions. 
 
 🌍 I'm based in **Rabat, Morocco**.
 
