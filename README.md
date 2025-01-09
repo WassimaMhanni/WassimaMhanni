@@ -21,7 +21,6 @@ Hello! I'm **Wassima Mhanni**
 - 
 🤝 I’m always open to collaborating on **Data Science**, **AI**, and **Data analyst** projects. Let’s explore new ideas, work on innovative solutions, and drive meaningful change through data.
 
-💡 *"Innovation begins with daring to follow one's own thoughts. I strive to be a creator, a thinker, and an innovator."*
 
 ---
 ## 🛠️ Technical Skills Summary
