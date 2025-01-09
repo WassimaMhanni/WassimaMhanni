@@ -39,8 +39,5 @@ Hello! I'm **Wassima Mhanni**
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-## 🛠️ Technical Skills Summary
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=My
+### **Programming Languages**
+- **Python**, **R**, **SQL**, **PL/SQL**, **Django**, **HTML**, **CSS**, **JavaScript**, **Bash**, **Shell scripting**, **MATLAB**
